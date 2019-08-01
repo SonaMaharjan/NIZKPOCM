@@ -1,0 +1,5 @@
+Incase the programs do not run, compile them first using the following command in the terminal.
+	javac -d . NameOfProgram.java
+
+
+
