@@ -161,10 +161,13 @@ class check{
 }
 
 <b>Compilation </b>
+
 First, compile each of the files using the following command in the terminal.
+
 	javac -d . NameOfProgram.java
 	
 After a successful compilation, run the file "check.java" to verify the proof. 
 
 <b>About</b>
+
 This is a part of a research project held by Koc University. The implementation has been built on the repository created by @Princeton CITP (https://github.com/citp/ThresholdECDSA).
