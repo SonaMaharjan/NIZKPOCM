@@ -116,12 +116,13 @@ The following code from the file "MultiplicationZKP.java" computes a random encr
 
 The above proof is tested by the file "check.java". 
 
-class check{
-	public static PaillierKey publicKey;
-    private static PaillierPrivateKey privateKey;
-	static Paillier paillier;
-	static MultiplicationZKP demo;
-
+	class check{
+		public static PaillierKey publicKey;
+	    private static PaillierPrivateKey privateKey;
+		static Paillier paillier;
+		static MultiplicationZKP demo;
+	
+	
 	public static void main(String args[]){
 
 		Scanner reader = new Scanner(System.in);
